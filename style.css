@@ -1,0 +1,249 @@
+*{
+    margin: 0%;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+}
+h1{
+    text-align: center;
+    color:  rgb(255, 255, 255);
+    background-color: rgb(186, 208, 228);
+    border-bottom:  5px solid rgb(21, 4, 252);
+    padding: 10px;
+}
+
+.foto-klinger{
+    background-position: center;
+    background-size: cover;
+    width: 30%;
+    height: 80vh;
+    max-width: 100%;
+    margin: 15px;
+    border-radius: 90%;
+    border-top-right-radius: 10px;
+}
+
+.img, p{
+    display: inline-block;
+}
+
+.p1{
+    
+    max-width: 100%;
+    background: rgb(102, 211, 211);
+    padding: 30px;
+    color: rgb(255, 255, 255);
+   border-radius: 50px;
+   border: 2px solid rgb(0, 0, 0);
+}
+.todos{
+    
+
+    padding: 30px;
+    margin: 40px;
+    position: relative;
+    
+}
+#escola{
+    margin: 0;
+    padding: 0;
+    
+}
+.conteudo{
+    max-width: none;
+    display: inline-block;
+    margin-left: 150px;
+    
+
+}
+
+
+
+.con01{
+    height: 400px;
+    width: 300px;
+    background: rgb(96, 153, 206);
+    margin-left: 30px;
+    margin-top: 40px;
+    border: 2px;
+    border: solid;
+    border-radius: 10%;
+    border: rgb(1, 68, 77);
+    display: inline-block;
+}
+
+
+#imagencss {
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+
+}
+.csstitulo{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.pcss{
+    margin: 10px;
+    font-size: 20px;
+}
+.notacss{
+    font-size: 30px;
+    color: yellow;
+    margin-left: 100px;
+    background: rgb(17, 16, 16);
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+
+
+.con02{
+    height: 400px;
+    width: 300px;
+    background: rgb(96, 153, 206);
+    margin-left: 30px;
+    margin-top: 30px;
+    border: 2px;
+    border: solid;
+    border-radius: 10%;
+    border: rgb(1, 68, 77);
+    display: inline-block
+}
+
+
+#imagenhtml {
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+
+
+}
+.htmltitulo{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.phtml{
+    margin: 10px;
+    font-size: 20px;
+}
+.notahtml{
+    font-size: 30px;
+    color: rgb(0, 255, 42);
+    margin-left: 100px;
+    background: rgb(17, 16, 16);
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+
+.con03{
+    height: 400px;
+    width: 300px;
+    background: rgb(96, 153, 206);
+    margin-left: 30px;
+    margin-top: 0px;
+    border: 2px;
+    border: solid;
+    border-radius: 10%;
+    border: rgb(1, 68, 77);
+    display: inline-block
+    
+}
+
+
+#imagenjava {
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+
+
+}
+.javatitulo{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.pjava{
+    margin: 10px;
+    font-size: 20px;
+}
+.notajava{
+    font-size: 30px;
+    color: rgb(231, 4, 4);
+    margin-left: 100px;
+    background: rgb(17, 16, 16);
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.conhecimentosobre{
+    max-width: none;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    
+    
+}
+.anoum{
+    margin-top: 200px;
+    
+    
+}
+
+.h3{
+    width: 80px;
+    height: 40px;
+    background: green;
+    background-size:cover;
+    display: flexbox;
+    
+    
+    
+}
+
+.linha{
+   
+   display: inline-block;
+   margin-left: 30px;
+}
+
+.quadrado{
+    display: inline-block;
+    
+   
+}
+
+.ptrabalho01{
+    font-size: 40px;
+}
+
+.h10{
+    height: 40px;
+    width: 500px;
+    background: yellow;
+}
+
+.h1{
+    height: 40px;
+    width: 300px;
+    background: red;
+}
+
+.h5{
+    height: 40px;
+    width: 700px;
+    background: green;
+}
